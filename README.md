@@ -2,14 +2,14 @@
 Basic portal with login and signup functionality
 
 # Technologies Used
-React
-TypeScript
-Java Web Tokens
-Hibernate
-Spring
-Java 11
-AWS S3
-H2 Database
-Docker
+React <br/>
+TypeScript <br/>
+Java Web Tokens <br/>
+Hibernate <br/>
+Spring <br/>
+Java 11 <br/>
+AWS S3 <br/>
+H2 Database <br/>
+Docker <br/>
 
 
