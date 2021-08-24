@@ -1,5 +1,6 @@
 # College Portal Example
 Basic portal with login and signup functionality
+Currently missing extra Verification and Test Cases
 
 # Technologies Used
 React <br/>
