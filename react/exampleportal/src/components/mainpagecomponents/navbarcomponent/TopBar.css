@@ -1,0 +1,88 @@
+.topNavBarContainer{
+    height: 60px;
+    width: 100%;
+    color: white;
+    background-image: linear-gradient(red,Maroon, black);
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    
+}
+
+.topLogoImg{
+    width: 40px;
+    height: 40px;
+    background: rgba(77,77,77,0);
+    cursor:pointer;
+    
+}
+
+.topNavBarLeft{
+    font-size: 40px;
+    flex:3;
+    display: flex;
+    align-items: center;
+}
+
+.topNavBarCenter{
+    flex:4
+}
+
+.navBarLogo{
+    cursor: pointer;
+
+}
+
+/* .searchBar {
+    width: 100%;
+    height: 30px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+} */
+
+.searchIcon{
+    font-size: 18px !important;
+    color: black;
+    margin-left: 10px;
+    
+}
+.searchInput{
+    width: 95%;
+    outline:none;
+    border: none;
+}
+.topNavBarRight{
+    flex:4;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.topNavBarLinks{
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.toplink {
+    margin-right: 40px;
+}
+.topNavBarIcons{
+    display: flex;
+}
+
+.topNavBarIcon{
+    margin-right: 30px;
+    cursor: pointer;
+}
+
+.topNavBarPic {
+    width: 32px;
+    height: 32px;
+}
+
+.tapNavBarName {
+    margin-right: -30px;
+}

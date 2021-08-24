@@ -1,0 +1,18 @@
+.profileUserImg{
+    border-radius: 15px;
+    height: 80px;
+    width: 70px;
+}
+
+.profileContent{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.componentTitle{
+    justify-content: center;
+    align-content: center;
+    margin-bottom: 20px;
+
+}

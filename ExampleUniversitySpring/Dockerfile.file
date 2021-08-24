@@ -1,0 +1,4 @@
+FROM openjdk:11
+ADD target/walmart-example-project.jar walmart-example-project.jar
+EXPOSE 9010
+ENTRYPOINT ["java", "-jar", "walmart-example-project.jar"]
