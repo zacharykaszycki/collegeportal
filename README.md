@@ -1,5 +1,5 @@
 # College Portal Example
-Basic portal with login and signup functionality
+Basic portal with login and signup functionality <br/>
 Currently missing extra Verification and Test Cases
 
 # Technologies Used
