@@ -1,7 +1,15 @@
-# Project 2
 
-Project 2 in Revature
+# College Portal Example
+Basic portal with login and signup functionality <br/>
+Currently missing extra Verification and Test Cases
 
-This is a new comment
-
-Making a change in the test branch
+# Technologies Used
+React <br/>
+TypeScript <br/>
+Java Web Tokens <br/>
+Hibernate <br/>
+Spring <br/>
+Java 11 <br/>
+AWS S3 <br/>
+H2 Database <br/>
+Docker <br/>
